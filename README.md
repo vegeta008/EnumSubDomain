@@ -14,11 +14,7 @@ EnumDomain es una herramienta de escaneo de subdominios que permite realizar des
 ## **REQUISITOS**
 
 - Python 3.6 o superior.
-- Bibliotecas requeridas (instaladas automáticamente si usas el siguiente comando):
 
-```bash
-pip install -r requirements.txt
-```
 
 ## **INSTALACIÓN**
 
@@ -27,19 +23,6 @@ pip install -r requirements.txt
    ```bash
    git clone https://github.com/tu_usuario/enumdomain.git
    cd enumdomain
-   ```
-
-2. (Opcional) Crea un entorno virtual:
-   
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate # En Windows: venv\Scripts\activate
-   ```
-
-3. Instala las dependencias necesarias:
-   
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ## **USO**
@@ -87,26 +70,3 @@ Los resultados del escaneo incluyen:
 - Estado HTTP de cada subdominio.
 
 El formato de salida será un archivo JSON estructurado para facilitar el análisis.
-
-## **CONTRIBUCIÓN**
-
-Si deseas contribuir a este proyecto:
-
-1. Haz un fork del repositorio.
-2. Crea una rama con tu característica o corrección:
-   
-   ```bash
-   git checkout -b mi-rama
-   ```
-
-3. Realiza un pull request y explícanos tu contribución.
-
-## **LICENCIA**
-
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
-
-## **CONTACTO**
-
-Para dudas o sugerencias, puedes contactar al desarrollador en:
-- GitHub: [tu_usuario](https://github.com/tu_usuario)
-- Email: tu_correo@ejemplo.com
