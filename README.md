@@ -1,4 +1,4 @@
-EnumDomain: Subdomain Scanner Tool
+#EnumDomain: Subdomain Scanner Tool
 
 EnumDomain es una herramienta de escaneo de subdominios que permite realizar descubrimiento y análisis de subdominios de forma eficiente. Utilizando concurrencia y comprobaciones detalladas, esta herramienta es ideal para profesionales de la seguridad y entusiastas de la ciberseguridad que buscan identificar subdominios asociados a un dominio objetivo.
 
